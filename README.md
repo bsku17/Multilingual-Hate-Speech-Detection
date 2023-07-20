@@ -1,2 +1,2 @@
 # Multilingual-Hate-Speech-Detection
-A machine learning and natural language processing algorithm to check whether a text is hate speech or not
+Developed a multilingual hate speech detection system using machine learning and BERT algorithm to check whether a text is hate speech or not
